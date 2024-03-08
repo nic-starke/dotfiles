@@ -1,3 +1,7 @@
 # Nic's Dotfiles
 
 This repo contains some basic scripts and dotfiles to get a linux environment setup.
+
+# Theme / Colours
+
+[kanagawa](https://github.com/rebelot/kanagawa.nvim)
