@@ -27,7 +27,7 @@ ipc_socket = true  # Default: true
 
 [env]
 # Environment variables
-TERM = "xterm-256color"
+TERM = "tmux-256color"
 
 ##########
 # WINDOW #
